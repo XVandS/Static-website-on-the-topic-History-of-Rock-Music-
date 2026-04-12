@@ -7,8 +7,6 @@
 
 ![Screenshot1]([https://raw.githubusercontent.com/Levletsplay0/WeatherBot/refs/heads/main/Screenshot%201.png](https://github.com/XVandS/Static-website-on-the-topic-History-of-Rock-Music-/blob/main/image.png?raw=true))
 
-![Screenshot2]([https://github.com/Levletsplay0/WeatherBot/blob/main/Screenshot%202.png](https://github.com/XVandS/Static-website-on-the-topic-History-of-Rock-Music-/blob/main/image1.png?raw=true))
-
-![Screenshot3](https://github.com/Levletsplay0/WeatherBot/blob/main/Screenshot%203.png)
+![Screenshot2](https://github.com/XVandS/Static-website-on-the-topic-History-of-Rock-Music-/blob/main/image1.png?raw=true)
 
 ---
