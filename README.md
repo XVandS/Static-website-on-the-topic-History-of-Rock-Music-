@@ -5,7 +5,7 @@
 
 ## 📸 Скриншоты
 
-![Screenshot1]([https://raw.githubusercontent.com/Levletsplay0/WeatherBot/refs/heads/main/Screenshot%201.png](https://github.com/XVandS/Static-website-on-the-topic-History-of-Rock-Music-/blob/main/image.png?raw=true))
+![Screenshot1](https://github.com/XVandS/Static-website-on-the-topic-History-of-Rock-Music-/blob/main/image.png?raw=true)
 
 ![Screenshot2](https://github.com/XVandS/Static-website-on-the-topic-History-of-Rock-Music-/blob/main/image1.png?raw=true)
 
